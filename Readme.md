@@ -1,6 +1,6 @@
 dravidian-codemix.github.io
 Offensive Language Identification of Dravidian Languages (Tamil, Malayalam) in Code-Mixed Text 2021
-Visit: https://github.com/dravidian-codemix/hasoc2021
+Visit: https://dravidian-codemix.github.io/hasoc2021/
 Contact us: dravidiancodemixed@gmail.com
 
 Offensive language identification is classification task in natural language processing (NLP) where the aim is to moderate and minimise offensive content in social media. It has been an active area of research in both academia and industry for the past two decades. There is an increasing demand for offensive language identification on social media texts which are largely code-mixed. Code-mixing is a prevalent phenomenon in a multilingual community and the code-mixed texts are sometimes written in non-native scripts. Systems trained on monolingual data fail on code-mixed data due to the complexity of code-switching at different linguistic levels in the text. This shared task presents a new gold standard corpus for offensive language identification of code-mixed text in Dravidian languages (Tamil-English, Malayalam-English).
